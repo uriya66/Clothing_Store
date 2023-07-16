@@ -7,4 +7,4 @@ Various uses were made of Hooks, Firebase Authentication, CSS In JS Styled-Compo
 Link to a website by using Netlify:
 https://lnkd.in/dKR3wJN4
 
-![1686682675088](https://github.com/uriya66/Clothing_Store/assets/35742868/0f31711a-c155-407f-9b38-6dece0d01f6e)
+![1686682675088](https://github.com/uriya66/Clothing_Store/assets/35742868/67891701-1274-4ef6-a30b-de5d33f7b487)
