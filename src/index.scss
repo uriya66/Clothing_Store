@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  // 20px on the top and the bottom and 40px on the left and right side
+  padding: 20px 40px;
+
+  font-family: "Kalam", cursive, "Bigelow Rules", cursive, "Bigelow Rules",
+    cursive, "Playfair Display", serif;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  align-items: center;
+  margin-right: auto;
+}
+
+code {
+  font-family: "Kalam", cursive, "Bigelow Rules", cursive, "Bigelow Rules",
+    cursive, "Playfair Display", serif;
+}
+
+// modify anchor tags (get rid of that underline)
+a {
+  text-decoration: none;
+  color: black;
+}
+
+// care that padding and borders don't throw off the dimensions of the component that is defined
+// star is a selector that matches to everything
+* {
+  box-sizing: border-box;
+}
+
+// scrollbar style
+::-webkit-scrollbar {
+  width: 12px;
+}
+
+::-webkit-scrollbar-track {
+  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.5);
+}
